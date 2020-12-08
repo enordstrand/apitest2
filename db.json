@@ -1,6 +1,4 @@
 {
-  "total": 800,
-  "totalNotFiltered": 800,
   "rows": [
     {
       "id": 0,
@@ -38,7 +36,7 @@
       "price": "$6"
     },
     {
-      "id": 799,
+      "id": 7,
       "name": "Item 799",
       "price": "$799"
     }
